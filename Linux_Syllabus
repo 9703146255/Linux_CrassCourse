@@ -1,0 +1,107 @@
+----------------------------------------------------
+1. Introduction to Linux
+----------------------------------------------------
+History and Evolution of Linux
+Difference Between Linux and Other Operating Systems
+Linux Distributions (Ubuntu, CentOS, Fedora, etc.)
+Open-Source Philosophy
+Installation of Linux (VM, Dual Boot, Cloud)
+----------------------------------------------------
+2. Basic Linux Commands
+----------------------------------------------------
+File System Basics: Files, Directories, Paths
+Navigation Commands: ls, cd, pwd
+File Operations: cp, mv, rm, cat, touch, nano, vim
+Viewing File Contents: cat, more, less, head, tail
+Managing Directories: mkdir, rmdir, tree
+Searching Files: find, locate, grep
+Viewing Manual Pages: man, help
+----------------------------------------------------
+3. User and Group Management
+----------------------------------------------------
+Users and Groups: adduser, useradd, passwd
+Modifying Users and Groups: usermod, groupadd, groupdel
+File Ownership and Permissions
+chmod, chown, chgrp
+Understanding Read, Write, and Execute Permissions
+Switching Users: su, sudo
+----------------------------------------------------
+4. File Systems and Disk Management
+----------------------------------------------------
+Linux File System Hierarchy
+Disk Partitioning and Mounting
+fdisk, mkfs, mount, umount
+File System Types (ext4, XFS, etc.)
+Disk Usage Analysis: df, du
+Links: Hard Links and Soft Links (ln)
+----------------------------------------------------
+5. Process and Job Management
+----------------------------------------------------
+Viewing Processes: ps, top, htop
+Managing Processes: kill, killall, pkill, nice
+Background and Foreground Processes: bg, fg, jobs
+Scheduling Jobs
+Cron Jobs: crontab
+One-time Jobs: at
+----------------------------------------------------
+6. Networking
+----------------------------------------------------
+Basic Networking Commands: ifconfig, ip, ping, netstat
+Network Configuration Files
+Secure Shell (SSH): ssh, scp, rsync
+Downloading Files: wget, curl
+File Sharing: ftp, sftp, nfs, samba
+----------------------------------------------------
+7. Package Management
+----------------------------------------------------
+Package Managers:
+apt (Debian-based),ubuntu
+yum / dnf (RHEL-based)
+Installing, Updating, and Removing Packages
+Searching for Packages
+8. Shell Scripting and Automation
+Shell Basics: sh, bash, zsh
+Writing Shell Scripts
+Variables, Loops, and Conditional Statements
+Input/Output Redirection
+Functions
+Scheduling with Cron and At
+Debugging Scripts
+----------------------------------------------------
+9. System Monitoring and Performance
+----------------------------------------------------
+Monitoring Tools: top, htop, iotop
+Logging: journalctl, /var/log/
+Resource Utilization: CPU, Memory, Disk, Network
+System Health Checks: uptime, vmstat
+----------------------------------------------------
+10. Security
+----------------------------------------------------
+User Privileges and Permissions
+Firewall: iptables, ufw
+Secure Connections: SSH Keys
+File Encryption: gpg, openssl
+Linux Security Modules: SELinux, AppArmor
+----------------------------------------------------
+11. Advanced Topics
+----------------------------------------------------
+Kernel Management
+Kernel Parameters: sysctl
+Kernel Updates
+Virtualization Basics: KVM, VirtualBox
+Containers: Introduction to Docker
+Systemd: Managing Services (systemctl)
+DevOps Basics: Git, Jenkins, CI/CD
+----------------------------------------------------
+12. Linux in Cloud and Enterprise
+----------------------------------------------------
+Linux in Cloud Platforms (AWS, Azure, GCP)
+Deployment Tools: Ansible, Puppet, Chef
+High Availability and Load Balancing
+Troubleshooting and Debugging Common Issues
+----------------------------------------------------
+13. Certifications (Optional)
+----------------------------------------------------
+Linux Professional Institute Certification (LPIC)
+Red Hat Certified System Administrator (RHCSA)
+CompTIA Linux+
